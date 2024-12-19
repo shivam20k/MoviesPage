@@ -1,0 +1,18 @@
+.bgimg {
+    background-color: rgb(252, 222, 227);
+}
+
+.navbar .navbar-brand {
+    color: rgb(144, 64, 64) !important;
+    font-weight: 800;
+    font-size: 30px;
+
+}
+.navbar .nav-link {
+    color: rgb(73, 39, 39) !important;
+
+}
+.background{
+    background-color:black ;
+    color: rgb(223, 201, 221);
+}
